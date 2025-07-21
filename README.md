@@ -1,2 +1,2 @@
 # javascript
-details javascript  notes with code
+details javascript  notes with code examples
