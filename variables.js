@@ -4,7 +4,7 @@
 // 3.var
 
 
-// Scope of variables
+// Scope of variables:-
 
 // The scope of a variable defines the region of the program where it can be accessed or modified. There are generally two main types: 
 
