@@ -15,7 +15,7 @@ let address; // Undefined
 let favoriteColor = null; // Null
 let id = Symbol("uniqueId"); // Symbol
 let largeNumber = 1234567890123456789012345678901234567890n; // BigInt
-// Use code with caution.
+// Use code with caution.:-
 
 // Non-primitive data types (objects) in detail
 // Non-primitive data types in JavaScript are objects, which are collections of key-value pairs. 
